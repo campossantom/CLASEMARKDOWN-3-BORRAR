@@ -51,8 +51,8 @@ IMÁGEN: \!\[ TEXTO ALTERNATIVO \] \( URL-IMAGEN \)
 IMÁGEN CON LINK: \[\!\[ TEXTO ALTERNATIVO \] \( URL-IMAGEN \)\]\( URL DESTINO \)  
 
 LINK: [JE QUICI TOUT VA BIEN](https://www.youtube.com/shorts/6cbqhS3N4M0)  
-IMÁGEN: ![LA HAINE]([https://mubi.com/es/us/films/la-haine](https://assets.mubicdn.net/images/film/216/image-w1280.jpg?1745490555](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeDDUiwm0R1g2RXCnp-UN0SZx-6wLvokElv5l9znORYA&s&ec=121585071))  
-IMÁGEN CON LINK: [![LA HAINE](https://mubi.com/es/us/films/la-haine)](https://www.youtube.com/shorts/6cbqhS3N4M0)  
+IMÁGEN: ![LA HAINE](https://i.pinimg.com/736x/e5/6a/6a/e56a6a9dbfc7f3ccc6271990b983114d.jpg) 
+IMÁGEN CON LINK: [![LA HAINE]([https://mubi.com/es/us/films/la-haine)](https://www.youtube.com/shorts/6cbqhS3N4M0](https://pin.it/1eDEMjFoH))  
 
 
 
